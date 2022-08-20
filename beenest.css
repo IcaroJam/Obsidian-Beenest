@@ -102,32 +102,26 @@ button.mod-cta {
       }
 
       .markdown-preview-view h1 {
-      line-height: 24px;
       color: var(--text-title-h1) !important;
       }
 
       .markdown-preview-view h2 {
-      line-height: 24px;
       color: var(--text-title-h2) !important;
       }
 
       .markdown-preview-view h3 {
-      line-height: 24px;
       color: var(--text-title-h3) !important;
       }
 
       .markdown-preview-view h4 {
-      line-height: 24px;
       color: var(--text-title-h4) !important;
       }
 
       .markdown-preview-view h5 {
-      line-height: 24px;
       color: var(--text-title-h5) !important;
       }
 
       .markdown-preview-view h6 {
-      line-height: 24px;
       color: var(--text-normal) !important;
       }
 
