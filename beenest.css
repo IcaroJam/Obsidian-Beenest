@@ -28,6 +28,8 @@
      --code-block:                 #83a598; 
      --text-a:                     #f8c537; 
      --interactive-accent:         #f8c537;
+     --interactive-accent-hover:   #E2742C;
+     --interactive-hover:          #E2742C;
      --text-accent:                #f8c537; 
      --text-on-accent:             #fff;
      --interactive-accent-rgb:     #f8c537; 
@@ -41,7 +43,7 @@
 
       .theme-dark .cm-s-obsidian span.obsidian-search-match-highlight {
       color: var(--text-normal);
-      background-color: #483699;
+      background-color: #E2742C;
       }
 
 .nav-file-title, .nav-folder-title {
